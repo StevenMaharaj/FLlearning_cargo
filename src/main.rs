@@ -10,4 +10,5 @@ fn main() {
         exch: Exchange::Okex,
     };
     println!("Hello, world! {}", l1.ask_p);
+    println!("hi {}", l1.ask_p);
 }
